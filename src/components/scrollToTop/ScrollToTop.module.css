@@ -1,0 +1,23 @@
+.button {
+  position: fixed;
+  right: 2rem;
+  bottom: 3rem;
+  width: 4.5rem;
+  height: 4.5rem;
+  background-color: var(--black);
+  color: var(--white);
+  border: none;
+  border-radius: 50%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  font-size: 2rem;
+  cursor: pointer;
+  z-index: 999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}

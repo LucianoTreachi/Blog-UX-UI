@@ -1,0 +1,95 @@
+.header {
+  padding: 2rem 4rem;
+}
+
+.nav {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  font-size: 2.5rem;
+  font-weight: 600;
+  opacity: .85;
+  margin-right: auto;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+}
+
+.menuLink {
+  font-size: 1.6rem;
+  font-weight: 500;
+  opacity: .85;
+  transition: var(--transition);
+}
+
+.menuLink:hover {
+  color: var(--accent-color);
+  opacity: 1;
+}
+
+.openMenuIcon {
+  display: none;
+}
+
+.closeMenuIcon {
+  display: none;
+}
+
+@media screen and (max-width: 574px) {
+  .header {
+    padding: 2rem;
+  }
+
+  .openMenuIcon {
+    display: block;
+    font-size: 3rem;
+    color: var(--accent-color);
+    margin-left: 1rem;
+    cursor: pointer;
+  }
+
+  .menu {
+    position: fixed;
+    top: 0;
+    left: -110%;
+    width: 100%;
+    height: 100vh;
+    overflow-y: auto;
+    background-color: rgba(18, 18, 18, .95);
+    backdrop-filter: blur(10px);
+    z-index: 3;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3rem;
+    padding: 8rem 0;
+    touch-action: none;
+    transition: var(--transition);
+  }
+
+  .menu.open {
+    left: 0;
+  }
+
+  .closeMenuIcon {
+    display: block;
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+    font-size: 3rem;
+    color: var(--white);
+    cursor: pointer;
+    z-index: 4;
+  }
+
+  .menuLink {
+    color: var(--white);
+  }
+}

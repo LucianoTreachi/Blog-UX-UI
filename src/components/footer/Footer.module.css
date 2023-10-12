@@ -1,0 +1,23 @@
+.footer {
+  padding: 6rem 4rem;
+  background-color: var(--accent-color);
+}
+
+.container {
+  max-width: 1400px;
+  margin: auto;
+}
+
+.paragraph {
+  font-size: 1.8rem;
+  font-weight: 400;
+  opacity: .9;
+  color: var(--white);
+  text-align: center;
+}
+
+@media screen and (max-width: 574px) {
+  .footer {
+    padding: 4rem 2rem;
+  }
+}

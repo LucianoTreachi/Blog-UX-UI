@@ -1,0 +1,69 @@
+/* GLOBAL STYLES */
+
+:root {
+  scroll-behavior: smooth;
+
+  --white: #f8f5f8;
+  --black: #27262e;
+  --accent-color: #4f46e4;
+
+  --transition: .3s;
+  --animation-fade-in: fade-in .4s backwards .2s;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: var(--black);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+input,
+textarea,
+button {
+  font-family: inherit;
+  color: inherit;
+}
+
+p {
+  font-size: 2rem;
+  line-height: 1.5em;
+  opacity: .75;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+}
+
+/* RESPONSIVE DESIGN */
+
+@media screen and (max-width: 600px) {
+  p {
+    font-size: 1.8rem;
+  }
+}
+
+@media screen and (max-width: 340px) {
+  html {
+    font-size: 55%;
+  }
+}

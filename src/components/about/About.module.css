@@ -1,0 +1,44 @@
+.section {
+  padding: 10rem 4rem;
+  background: var(--white);
+  min-height: 100vh;
+  animation: var(--animation-fade-in);
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.title {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  font-size: 3rem;
+}
+
+.text {
+  margin-top: 2rem;
+}
+
+.text p {
+  line-height: 1.8em;
+  margin-bottom: 4rem;
+}
+
+.span {
+  font-size: 1.6rem;
+  opacity: .75;
+}
+
+@media screen and (max-width: 850px) {
+  .row {
+    grid-template-columns: 1fr;
+    align-items: initial;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .section {
+    padding: 4rem 2rem 6rem;
+  }
+}
