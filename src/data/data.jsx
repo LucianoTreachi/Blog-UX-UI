@@ -9,17 +9,13 @@ export const data = [
       <>
         <p>
           La alineación del texto en una interfaz de usuario desempeña un papel
-          fundamental en la legibilidad, la organización y la estética del
-          diseño. Un diseño eficaz utiliza la alineación de manera estratégica
-          para mejorar la experiencia del usuario, la accesibilidad y la
-          coherencia visual.
+          fundamental en la legibilidad.
         </p>
         <p>
-          En el diseño web, la <b>alineación de texto a la izquierda</b> se ha
-          convertido en una elección popular debido a que se ajusta de manera
-          natural a cómo los lectores inician la lectura en el extremo izquierdo
-          de la pantalla y avanzan hacia la derecha. Este tipo de alineación
-          facilita una lectura fluida y cómoda para los usuarios.
+          Generalmente, en el diseño web se recomienda utilizar la mayor parte
+          del tiempo <b>alineación a la izquierda</b>, ya que así estamos
+          acostumbrados a leer. Este tipo de alineación permite una lectura más
+          fluida y natural, y facilita la comprensión del contenido.
         </p>
         <p>
           ¿Y qué pasa con la alineación justificada? Si bien puede parecer una
@@ -78,8 +74,8 @@ export const data = [
         <p>
           Los usuarios a menudo escanean el contenido en lugar de leerlo de
           principio a fin, y rara vez quieren leer grandes bloques de texto. En
-          lugar de esto, divide el contenido en párrafos más pequeños para que
-          sea más digerible.
+          lugar de esto, es mejor dividir el contenido en párrafos más pequeños
+          para que sea más digerible.
         </p>
         <p>
           Al dividir el contenido en párrafos más pequeños, se facilita la
@@ -301,9 +297,9 @@ export const data = [
           que permite que el texto destaque de manera efectiva.
         </p>
         <p>
-          En última instancia, este recurso puede añadir una capa de
-          sofisticación y belleza a tu diseño, mejorando la impresión general
-          que tiene el usuario de tu interfaz.
+          Este recurso también puede añadir una capa de sofisticación y belleza
+          a tu diseño, mejorando la impresión general que tiene el usuario de tu
+          interfaz.
         </p>
       </>
     ),
