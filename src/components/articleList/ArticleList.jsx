@@ -19,8 +19,8 @@ export default function ArticleList() {
               <img className={styles.cardImage} src={article.cover} alt="" />
               <div className={styles.cardContent}>
                 <h3 className={styles.cardTitle}>{article.title}</h3>
-                <div className={styles.space}></div>
                 <span className={styles.cardtime}>{article.time}</span>
+                <div className={styles.space}></div>
                 <Link
                   className={styles.cardButton}
                   to={`/articulo/${article.url}`}

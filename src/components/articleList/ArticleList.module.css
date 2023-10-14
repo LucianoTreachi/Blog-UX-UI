@@ -44,7 +44,7 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  gap: 2rem;
+  gap: 1rem;
   flex-grow: 1;
 }
 
@@ -54,16 +54,17 @@
   opacity: .9;
 }
 
-.space {
-  flex-grow: 1;
-}
-
 .cardtime {
   font-size: 1.4rem;
   opacity: .75;
 }
 
+.space {
+  flex-grow: 1;
+}
+
 .cardButton {
+  margin-top: 1rem;
   font-size: 1.6rem;
   font-weight: 500;
   color: var(--accent-color);
