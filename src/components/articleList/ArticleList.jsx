@@ -16,7 +16,11 @@ export default function ArticleList() {
         <div className={styles.articlesContainer}>
           {data.map((article) => (
             <div className={styles.card} key={article.url}>
-              <img className={styles.cardImage} src={article.cover} alt="" />
+              <img
+                className={styles.cardImage}
+                src={article.cover}
+                alt="Imagen de portada del artículo"
+              />
               <div className={styles.cardContent}>
                 <h3 className={styles.cardTitle}>{article.title}</h3>
                 <span className={styles.cardtime}>{article.time}</span>

@@ -18,18 +18,30 @@ export default function ArticleDetail() {
           <GoBackButton />
           <h1 className={styles.title}>{articleSelected.title}</h1>
           <span className={styles.time}>{articleSelected.time}</span>
-          <img className={styles.cover} src={articleSelected.cover} alt="" />
+          <img
+            className={styles.cover}
+            src={articleSelected.cover}
+            alt="Imagen de portada del artículo"
+          />
           <div className={styles.description}>
             {articleSelected.description}
           </div>
           <h2 className={styles.redTitle}>
             <ImCross className={styles.crossIcon} /> Evita esto
           </h2>
-          <img className={styles.image} src={articleSelected.image1} alt="" />
+          <img
+            className={styles.image}
+            src={articleSelected.image1}
+            alt="Imagen ilustrativa 1"
+          />
           <h2 className={styles.greenTitle}>
             <FaCheck className={styles.checkIcon} /> Mejor esto
           </h2>
-          <img className={styles.image} src={articleSelected.image2} alt="" />
+          <img
+            className={styles.image}
+            src={articleSelected.image2}
+            alt="Imagen ilustrativa 2"
+          />
         </div>
       </section>
     </main>

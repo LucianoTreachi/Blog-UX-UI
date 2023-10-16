@@ -31,13 +31,6 @@ export default function Header() {
             >
               Sobre este blog
             </Link>
-            {/* <Link
-              className={styles.menuLink}
-              to="/contacto"
-              onClick={toggleMenu}
-            >
-              Contacto
-            </Link> */}
           </div>
           {/* Hamburguer Menu */}
           <AiOutlineMenu className={styles.openMenuIcon} onClick={toggleMenu} />
