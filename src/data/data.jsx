@@ -183,7 +183,7 @@ export const data = [
         </p>
         <p>
           Sin embargo, a nivel experiencia de usuario, no es lo mejor. Te cuento
-          porque deberías tener cuidado con este efecto: <br />
+          por qué deberías tener cuidado con este efecto: <br />
           <br />
           <b>• Tiempo de espera:</b> el usuario tiene que esperar a que se
           complete la oración antes de poder leerla completamente. <br />
@@ -370,7 +370,7 @@ export const data = [
         </p>
         <p>
           Hoy en día, muchos sitios web bombardean a los visitantes con chats o
-          mensajes automáticos del tipo &quot;¿En qué puedo ayudarte? &quot; o
+          mensajes automáticos del tipo &quot;¿En qué puedo ayudarte?&quot;, o
           &quot;Soy Luisa, tu asistente virtual&quot;. Sin embargo, es
           importante recordar que la libertad del usuario es fundamental. En
           lugar de imponer una conversación, es preferible permitir que el
@@ -401,7 +401,7 @@ export const data = [
           Es importante tener en cuenta que algunas acciones como &quot;eliminar
           producto&quot;, &quot;vaciar carrito&quot;, &quot;cancelar
           compra&quot;, &quot;eliminar cuenta&quot;, &quot;borrar archivo&quot;,
-          etc, pueden tener consecuencias graves y permanentes.
+          etc., pueden tener consecuencias graves y permanentes.
         </p>
         <p>
           Por lo tanto, cuando el usuario presione sobre un botón que lleve a
@@ -434,7 +434,7 @@ export const data = [
         <p>
           ¿Qué nos enseña esta ley? Cuando presentamos una lista de elementos de
           una misma categoría junto con uno que difiere en algún aspecto (ya sea
-          en tamaño, forma, color, etc), este último será más memorable y
+          en tamaño, forma, color, etc.), este último será más memorable y
           captará mayor atención.
         </p>
         <p>
@@ -497,7 +497,7 @@ export const data = [
           necesario para alcanzarlo.
         </p>
         <p>
-          Por lo tanto, utiliza este recurso para mantener los botones ó enlaces
+          Por lo tanto, utiliza este recurso para mantener los botones o enlaces
           principales lo suficientemente grandes, y ubicados cerca del área del
           pulgar del usuario.
         </p>

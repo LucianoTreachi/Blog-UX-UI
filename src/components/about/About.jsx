@@ -15,7 +15,7 @@ export default function About() {
               En un mundo cada vez más digital y orientado a la experiencia del
               usuario, comprender y aplicar estrategias efectivas de UX y UI se
               ha vuelto esencial para crear productos y sitios web que no solo
-              sean atractivos y memorables, sino también funcionales, ituitivos
+              sean atractivos y memorables, sino también funcionales, intuitivos
               y fáciles de usar.
             </p>
             <p>
