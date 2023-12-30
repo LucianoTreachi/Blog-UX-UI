@@ -2,16 +2,16 @@
   <img src="https://raw.githubusercontent.com/LucianoTreachi/Blog-UX-UI/main/readmeBanner.jpg" width="100%" alt="Banner"/>
 </div>
 
-## Descripción
+## ✅ Descripción del proyecto
 
-<p>Diseñé y desarrollé un Blog sobre consejos, técnicas y estrategias UX/UI para un diseño atractivo, intuitivo y funcional.</p>
+- Diseñé y desarrollé un Blog sobre consejos, técnicas y estrategias UX/UI para un diseño atractivo, intuitivo y funcional.
 
-## Tecnologías utilizadas
+## ⚡ Tecnologías Utilizadas
 
-<p>• Vite + React Js</p>
-<p>• CSS module</p>
-<p>• Cloudinary</p>
+- Vite + React Js
+- CSS Modules
+- Cloudinary
 
-## Autor
+## 👽 Autor
 
-**Luciano Treachi**
+- Luciano Treachi
