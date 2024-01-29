@@ -20,6 +20,8 @@ export default function ArticleList() {
                 className={styles.cardImage}
                 src={article.cover}
                 alt="Imagen de portada del artículo"
+                width={1000}
+                height={600}
               />
               <div className={styles.cardContent}>
                 <h3 className={styles.cardTitle}>{article.title}</h3>

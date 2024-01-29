@@ -26,6 +26,8 @@ export default function Home() {
               className={styles.image}
               src="https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1694527736/blog-ux-ui/home_ucvo66.png"
               alt="Imagen del Home"
+              width={1234}
+              height={949}
             />
           </picture>
         </div>
