@@ -29,6 +29,7 @@ export default function Home() {
               width={1234}
               height={949}
               fetchpriority="high"
+              decoding="async"
             />
           </picture>
         </div>
