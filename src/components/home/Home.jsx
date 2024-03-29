@@ -28,6 +28,7 @@ export default function Home() {
               alt="Imagen del Home"
               width={1234}
               height={949}
+              fetchpriority="high"
             />
           </picture>
         </div>
