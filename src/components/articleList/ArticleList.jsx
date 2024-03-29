@@ -22,6 +22,7 @@ export default function ArticleList() {
                 alt="Imagen de portada del artículo"
                 width={1000}
                 height={600}
+                loading="lazy"
               />
               <div className={styles.cardContent}>
                 <h3 className={styles.cardTitle}>{article.title}</h3>
