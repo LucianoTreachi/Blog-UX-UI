@@ -22,6 +22,8 @@ export default function ArticleDetail() {
             className={styles.cover}
             src={articleSelected.cover}
             alt="Imagen de portada del artículo"
+            width={1000}
+            height={600}
           />
           <div className={styles.description}>
             {articleSelected.description}
@@ -33,6 +35,8 @@ export default function ArticleDetail() {
             className={styles.image}
             src={articleSelected.image1}
             alt="Imagen ilustrativa 1"
+            width={1920}
+            height={1920}
           />
           <h2 className={styles.greenTitle}>
             <FaCheck className={styles.checkIcon} /> Mejor esto
@@ -41,6 +45,8 @@ export default function ArticleDetail() {
             className={styles.image}
             src={articleSelected.image2}
             alt="Imagen ilustrativa 2"
+            width={1920}
+            height={1920}
           />
         </div>
       </section>

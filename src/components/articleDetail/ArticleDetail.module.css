@@ -33,6 +33,7 @@
 
 .cover {
   width: 100%;
+  height: auto;
   display: block;
 }
 
@@ -73,6 +74,8 @@ h2 {
 .image {
   margin: 4rem 0;
   width: 100%;
+  height: auto;
+  display: block;
 }
 
 @media screen and (max-width: 600px) {

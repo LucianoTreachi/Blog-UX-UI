@@ -6,7 +6,7 @@ export default function Home() {
       <div className={styles.container}>
         <div className={styles.col1}>
           <h1 className={styles.title}>
-            <span className={styles.titleSpan}>Estrategias UX/UI</span> Para Un
+            <span className={styles.titleSpan}>Estrategias UX/UI</span> para Un
             Diseño Atractivo y Funcional
           </h1>
           <p className={styles.paragraph}>
@@ -17,21 +17,13 @@ export default function Home() {
           <span className={styles.span}>💜 Por Luciano Treachi </span>
         </div>
         <div className={styles.col2}>
-          <picture>
-            <source
-              media="(max-width: 574px)"
-              srcSet="https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/w_500/v1694527736/blog-ux-ui/home_ucvo66.png"
-            />
-            <img
-              className={styles.image}
-              src="https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1694527736/blog-ux-ui/home_ucvo66.png"
-              alt="Imagen del Home"
-              width={1234}
-              height={949}
-              fetchpriority="high"
-              decoding="async"
-            />
-          </picture>
+          <img
+            className={styles.image}
+            src="https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1711818699/blog-ux-ui/home-900x692_lcgghs.png"
+            alt="Imagen del Home"
+            width={900}
+            height={692}
+          />
         </div>
       </div>
     </section>
