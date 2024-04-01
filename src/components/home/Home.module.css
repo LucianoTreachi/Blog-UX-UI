@@ -7,9 +7,10 @@
   max-width: 1400px;
   padding: 4rem 0;
   margin: auto;
-  display: flex;
+  display: grid;
   align-items: center;
-  gap: 5%;
+  grid-template-columns: 1fr 1fr;
+  gap: 6rem;
 }
 
 .title {
@@ -50,8 +51,7 @@
 
 @media screen and (max-width: 850px) {
   .container {
-    flex-direction: column;
-    gap: 6rem;
+    grid-template-columns: 1fr;
     padding: 6rem 0 4rem;
   }
 
