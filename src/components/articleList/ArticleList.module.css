@@ -53,6 +53,7 @@
 
 .cardTitle {
   font-size: 2.4rem;
+  font-weight: 600;
   line-height: 1.3em;
   opacity: .9;
 }
@@ -68,7 +69,7 @@
 
 .cardButton {
   margin-top: 1rem;
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   font-weight: 500;
   color: var(--accent-color);
   border-bottom: 1px solid var(--accent-color);

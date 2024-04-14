@@ -1,6 +1,7 @@
 import { AiOutlineMenu, AiOutlineClose } from "react-icons/ai";
 import { Link } from "react-router-dom";
 import { useState } from "react";
+import ThemeButton from "../themeButton/ThemeButton";
 import styles from "./Header.module.css";
 
 export default function Header() {
@@ -18,6 +19,7 @@ export default function Header() {
           <Link className={styles.logo} to="/">
             Blog.
           </Link>
+
           {/* Navigation */}
           <div className={`${styles.menu} ${isOpen && styles.open}`}>
             <AiOutlineClose
@@ -32,6 +34,10 @@ export default function Header() {
               Sobre este blog
             </Link>
           </div>
+
+          {/* Theme */}
+          <ThemeButton />
+
           {/* Hamburguer Menu */}
           <AiOutlineMenu className={styles.openMenuIcon} onClick={toggleMenu} />
         </nav>

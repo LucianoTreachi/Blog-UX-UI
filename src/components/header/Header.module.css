@@ -12,7 +12,7 @@
 .logo {
   font-size: 2.5rem;
   font-weight: 600;
-  opacity: .85;
+  color: var(--black);
   margin-right: auto;
 }
 
@@ -23,8 +23,9 @@
 }
 
 .menuLink {
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   font-weight: 500;
+  color: var(--black);
   opacity: .85;
   transition: var(--transition);
 }
@@ -62,7 +63,7 @@
     width: 100%;
     height: 100vh;
     overflow-y: auto;
-    background-color: rgba(18, 18, 18, .95);
+    background-color: var(--background-navbar);
     backdrop-filter: blur(10px);
     z-index: 3;
     display: flex;
@@ -84,12 +85,8 @@
     top: 2rem;
     right: 2rem;
     font-size: 3rem;
-    color: var(--white);
+    color: var(--black);
     cursor: pointer;
     z-index: 4;
-  }
-
-  .menuLink {
-    color: var(--white);
   }
 }

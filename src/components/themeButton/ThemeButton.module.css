@@ -1,0 +1,13 @@
+.themeButton {
+  border: 0;
+  background: none;
+  margin-left: 2rem;
+  cursor: pointer;
+  transform: translateY(3px);
+}
+
+.sunIcon,
+.moonIcon {
+  font-size: 2.8rem;
+  color: var(--black);
+}

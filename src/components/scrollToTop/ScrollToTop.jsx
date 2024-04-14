@@ -1,4 +1,4 @@
-import { FiArrowUp } from "react-icons/fi";
+import { FaArrowUp } from "react-icons/fa6";
 import { useEffect, useState } from "react";
 import styles from "./ScrollToTop.module.css";
 
@@ -31,7 +31,7 @@ const ScrollToTop = () => {
     <>
       {isVisible && (
         <button onClick={scrollToTop} className={styles.button}>
-          <FiArrowUp />
+          <FaArrowUp />
         </button>
       )}
     </>

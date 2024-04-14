@@ -2,9 +2,10 @@
   position: fixed;
   right: 2rem;
   bottom: 3rem;
-  width: 4.5rem;
-  height: 4.5rem;
+  width: 5.2rem;
+  height: 5.2rem;
   background-color: var(--black);
+  background-color: var(--accent-color);
   color: var(--white);
   border: none;
   border-radius: 50%;
@@ -15,9 +16,4 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  transition: background-color 0.3s, transform 0.3s;
-}
-
-.button:hover {
-  background-color: #0056b3;
 }

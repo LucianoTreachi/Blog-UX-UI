@@ -1,6 +1,8 @@
 .footer {
   padding: 6rem 4rem;
   background-color: var(--accent-color);
+  background-color: #23272f;
+  background-color: var(--footer);
 }
 
 .container {
@@ -12,7 +14,7 @@
   font-size: 1.8rem;
   font-weight: 400;
   opacity: .9;
-  color: var(--white);
+  color: var(--black);
   text-align: center;
 }
 
