@@ -6,7 +6,7 @@ export default function Home() {
       <div className={styles.container}>
         <div className={styles.col1}>
           <h1 className={styles.title}>
-            <span className={styles.titleSpan}>Estrategias UX/UI</span> para Un
+            <span className={styles.titleSpan}>Estrategias UX/UI</span> para un
             Diseño Atractivo y Funcional
           </h1>
           <p className={styles.paragraph}>
