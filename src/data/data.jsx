@@ -114,8 +114,8 @@ export const data = [
           facilita la lectura y reduce la fatiga ocular.
         </p>
         <p>
-          Un line-height entre 1.2em y 1.8em es un buen rango para experimentar
-          y encontrar una altura de línea que mejor funcione para un diseño en
+          Un line-height entre 1.2 y 1.6 es un buen rango para experimentar y
+          encontrar una altura de línea que mejor funcione para un diseño en
           particular.
         </p>
         <p>
