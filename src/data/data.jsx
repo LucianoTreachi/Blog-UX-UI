@@ -392,7 +392,7 @@ export const data = [
   {
     url: "La-importancia-del-modal-de-confirmacion",
     cover:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696592938/blog-ux-ui/cover-eliminar-items_efcutg.jpg",
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713185050/blog-ux-ui/cover-eliminar-items_iuv2ka.jpg",
     title: "La Importancia del Modal de Confirmación. ¡Evita errores!",
     time: "Lectura: 2 min",
     description: (
