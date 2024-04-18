@@ -253,7 +253,7 @@ export const data = [
     url: "texto-azul-en-parrafos",
     cover:
       "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696592938/blog-ux-ui/cover-texto-azul_dmzzjw.jpg",
-    title: "Texto Azul en Párrafos: ¿Cuándo es Apropiado?",
+    title: "Texto Azul en Párrafos ¿Cuándo es Apropiado?",
     time: "Lectura: 2 min",
     description: (
       <>
@@ -281,7 +281,7 @@ export const data = [
     url: "superposicion-de-imagenes-y-texto",
     cover:
       "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696620951/blog-ux-ui/cover-superposicion_warj9g.jpg",
-    title: "Superposición de Imágenes y Texto. ¡Crea Armonía Visual!",
+    title: "Superposición de Imágenes y Texto ¡Crea Armonía Visual!",
     time: "Lectura: 2 min",
     description: (
       <>
@@ -394,10 +394,10 @@ export const data = [
   },
 
   {
-    url: "chatbots-y-mensajes-automaticos",
+    url: "chatbots-y-mensajes-automaticos-ayuda-o-molestia",
     cover:
       "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696592937/blog-ux-ui/cover-chatbots_vk4b7l.jpg",
-    title: "Chatbots y Mensajes Automáticos. ¿Ayuda o Molestia?",
+    title: "Chatbots y Mensajes Automáticos ¿Ayuda o Molestia?",
     time: "Lectura: 2 min",
     description: (
       <>
@@ -548,7 +548,7 @@ export const data = [
           prioriza mantener un diseño familiar y reconocible para el usuario, lo
           que reduce su carga cognitiva. Por ejemplo, el logo suele ubicarse en
           la parte superior izquierda, mientras que los iconos de búsqueda,
-          acceso a la cuenta, y carrito suelen estar en la parte superior
+          acceso a la cuenta y carrito suelen estar en la parte superior
           derecha.
         </p>
         <p>
