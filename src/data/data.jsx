@@ -64,38 +64,6 @@ export const data = [
   },
 
   {
-    url: "La-magia-de-los-parrafos-cortos",
-    cover:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696617298/blog-ux-ui/cover-bloques-de-texto_iqowfl.jpg",
-    title: "La Magia de los Párrafos Cortos. ¡Divide y Conquistarás!",
-    time: "Lectura: 2 min",
-    description: (
-      <>
-        <p>
-          Los usuarios a menudo escanean el contenido en lugar de leerlo de
-          principio a fin, y rara vez quieren leer grandes bloques de texto. En
-          lugar de esto, es mejor dividir el contenido en párrafos más pequeños
-          para que sea más digerible.
-        </p>
-        <p>
-          Al dividir el contenido en párrafos más pequeños, se facilita la
-          lectura y los usuarios pueden absorber información de manera más
-          eficiente y cómoda, lo que mejora significativamente su experiencia.
-        </p>
-        <p>
-          Cada párrafo puede contener una idea o un tema específico, lo que
-          permite que los usuarios se enfoquen en una parte del contenido a la
-          vez.
-        </p>
-      </>
-    ),
-    image1:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1697108465/blog-ux-ui/bloques-de-texto-no_ssyfjn.jpg",
-    image2:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1697108464/blog-ux-ui/bloques-de-texto-si_rstoni.jpg",
-  },
-
-  {
     url: "line-height-la-brecha-entre-una-buena-y-mala-lectura",
     cover:
       "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696429416/blog-ux-ui/cover-alineacion_rqpqvr.jpg",
@@ -133,6 +101,77 @@ export const data = [
       "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696938411/blog-ux-ui/line-height-no_nlgizh.jpg",
     image2:
       "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696938411/blog-ux-ui/line-height-si_ow1znu.jpg",
+  },
+
+  {
+    url: "pixel-vs-rem-cuando-utilizar-estas-unidades-de-medida",
+    cover:
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713290373/blog-ux-ui/cover-px-rem_ddhcvp.jpg",
+    title: "Pixel vs Rem ¿Cuándo utilizar estas unidades de medida?",
+    time: "Lectura: 2 min",
+    description: (
+      <>
+        <p>
+          Cuando estamos diseñando una interfaz de usuario, es crucial elegir la
+          unidad de medida adecuada para garantizar una experiencia consistente
+          y adaptable en diferentes dispositivos y pantallas.
+        </p>
+        <p>
+          <b>La unidad rem</b> es ideal para crear diseños flexibles y
+          responsivos que se vean bien en varios tamaños de pantalla y respondan
+          a las preferencias del usuario. Es conveniente utilizarla en el tamaño
+          de fuente (font-size), márgenes (margin), y relleno interno (padding).
+        </p>
+        <p>
+          <b>La unidad px</b> es absoluta y no responde a cambios en el tamaño
+          de fuente raíz ni a las preferencias del usuario. Por lo tanto, sería
+          conveniente dejarla reservada para valores de bordes (border), sombras
+          (box-shadow, text-shadow) y en situaciones donde se requieran medidas
+          fijas.
+        </p>
+        <p>
+          Es crucial entender las fortalezas y limitaciones de cada unidad para
+          tomar decisiones informadas y crear interfaces de usuario que sean
+          tanto visualmente atractivas como funcionales en cualquier entorno.
+        </p>
+      </>
+    ),
+    image1:
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1697108465/blog-ux-ui/bloques-de-texto-no_ssyfjn.jpg",
+    image2:
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1697108464/blog-ux-ui/bloques-de-texto-si_rstoni.jpg",
+  },
+
+  {
+    url: "La-magia-de-los-parrafos-cortos",
+    cover:
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696617298/blog-ux-ui/cover-bloques-de-texto_iqowfl.jpg",
+    title: "La Magia de los Párrafos Cortos. ¡Divide y Conquistarás!",
+    time: "Lectura: 2 min",
+    description: (
+      <>
+        <p>
+          Los usuarios a menudo escanean el contenido en lugar de leerlo de
+          principio a fin, y rara vez quieren leer grandes bloques de texto. En
+          lugar de esto, es mejor dividir el contenido en párrafos más pequeños
+          para que sea más digerible.
+        </p>
+        <p>
+          Al dividir el contenido en párrafos más pequeños, se facilita la
+          lectura y los usuarios pueden absorber información de manera más
+          eficiente y cómoda, lo que mejora significativamente su experiencia.
+        </p>
+        <p>
+          Cada párrafo puede contener una idea o un tema específico, lo que
+          permite que los usuarios se enfoquen en una parte del contenido a la
+          vez.
+        </p>
+      </>
+    ),
+    image1:
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1697108465/blog-ux-ui/bloques-de-texto-no_ssyfjn.jpg",
+    image2:
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1697108464/blog-ux-ui/bloques-de-texto-si_rstoni.jpg",
   },
 
   {
@@ -390,40 +429,6 @@ export const data = [
   },
 
   {
-    url: "La-importancia-del-modal-de-confirmacion",
-    cover:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713185050/blog-ux-ui/cover-eliminar-items_iuv2ka.jpg",
-    title: "La Importancia del Modal de Confirmación. ¡Evita errores!",
-    time: "Lectura: 2 min",
-    description: (
-      <>
-        <p>
-          Es importante tener en cuenta que algunas acciones como &quot;eliminar
-          producto&quot;, &quot;vaciar carrito&quot;, &quot;cancelar
-          compra&quot;, &quot;eliminar cuenta&quot;, &quot;borrar archivo&quot;,
-          etc., pueden tener consecuencias graves y permanentes.
-        </p>
-        <p>
-          Por lo tanto, cuando el usuario presione sobre un botón que lleve a
-          una acción de este tipo, no permitas que se ejecute inmediatamente
-          dicha acción, en su lugar agrega un modal de confirmación con 2
-          botones: un botón primario para confirmar y un botón secundario para
-          cancelar.
-        </p>
-        <p>
-          Al agregar un modal de confirmación, estás proporcionando una
-          oportunidad para que los usuarios reconsideren su acción y eviten
-          cualquier error involuntario.
-        </p>
-      </>
-    ),
-    image1:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696939972/blog-ux-ui/eliminar-items-no_ivmwe4.jpg",
-    image2:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696939973/blog-ux-ui/eliminar-items-si_mv2ybn.jpg",
-  },
-
-  {
     url: "ley-de-von-restorff",
     cover:
       "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696429417/blog-ux-ui/cover-von-restorff_zumfkg.jpg",
@@ -512,6 +517,87 @@ export const data = [
       "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696940374/blog-ux-ui/fitts-no_bimidh.jpg",
     image2:
       "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696940374/blog-ux-ui/fitts-si_k5bnot.jpg",
+  },
+
+  {
+    url: "ley-de-jacob",
+    cover:
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713293907/blog-ux-ui/cover-jacob_dnrxav.jpg",
+    title: "Ley de Jacob. ¡Mantén informados a los usuarios!",
+    time: "Lectura: 2 min",
+    description: (
+      <>
+        <p>
+          ¿Qué nos enseña esta ley? Los usuarios pasan la mayor parte del tiempo
+          en otros sitios web y aplicaciones, lo que los hace inclinarse hacia
+          productos que ya les resultan familiares y funcionales. Cuando los
+          usuarios ya están familiarizados con algo y esto se modifica, lo
+          primero que sienten es rechazo o frustración.
+        </p>
+        <p>
+          Por lo tanto, a la hora de crear un sitio web o aplicación, es
+          recomendable seguir los diseños y patrones ya conocidos por los
+          usuarios.
+        </p>
+        <p>
+          Si aplicamos la ley de Jakob Nielsen, le estamos ahorrando a nuestros
+          usuarios un mayor esfuerzo cognitivo.
+        </p>
+        <p>
+          A continuación, podemos observar como en una página de ecommerce, en
+          la página de detalle del producto, es importante mantener un orden que
+          ya está probado, funciona, y es familiar para los usuarios.
+        </p>
+        <p>
+          Por lo general, siempre encontramos la imagen del producto a la
+          izquierda, y a la derecha encontramos información importante como el
+          título, el precio, los talles, un contador, un botón de &quot;Agregar
+          al carrito&quot;, etc.
+        </p>
+        <p>
+          Gracias a seguir patrones de diseño conocidos y familiares, le estamos
+          ahorrando a nuestros usuarios un mayor esfuerzo cognitivo.
+        </p>
+      </>
+    ),
+    image1:
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713462308/blog-ux-ui/ley-jacob-no_uomfdl.jpg",
+    image2:
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713462309/blog-ux-ui/ley-jacob-si_nkuhna.jpg",
+  },
+
+  {
+    url: "la-importancia-del-modal-de-confirmacion",
+    cover:
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713185050/blog-ux-ui/cover-eliminar-items_iuv2ka.jpg",
+    title: "La Importancia del Modal de Confirmación. ¡Evita errores!",
+    time: "Lectura: 2 min",
+    description: (
+      <>
+        <p>
+          Es importante tener en cuenta que algunas acciones como &quot;eliminar
+          producto&quot;, &quot;vaciar carrito&quot;, &quot;cancelar
+          compra&quot;, &quot;eliminar cuenta&quot;, &quot;borrar archivo&quot;,
+          etc., pueden tener consecuencias graves y permanentes.
+        </p>
+        <p>
+          Por lo tanto, cuando el usuario presione sobre un botón que lleve a
+          una acción de este tipo, no permitas que se ejecute inmediatamente
+          dicha acción, en su lugar agrega un modal de confirmación con 2
+          botones: un botón primario para confirmar y un botón secundario para
+          cancelar.
+        </p>
+        <p>
+          Al agregar un modal de confirmación, estás proporcionando una
+          oportunidad para que los usuarios reconsideren su acción y eviten
+          cualquier error involuntario.
+        </p>
+      </>
+    ),
+    image1:
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696939972/blog-ux-ui/eliminar-items-no_ivmwe4.jpg",
+    image2:
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696939973/blog-ux-ui/eliminar-items-si_mv2ybn.jpg",
   },
 
   {
