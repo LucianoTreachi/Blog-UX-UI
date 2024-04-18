@@ -137,16 +137,16 @@ export const data = [
       </>
     ),
     image1:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1697108465/blog-ux-ui/bloques-de-texto-no_ssyfjn.jpg",
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713465440/blog-ux-ui/px-o-rem-no_tvi8np.jpg",
     image2:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1697108464/blog-ux-ui/bloques-de-texto-si_rstoni.jpg",
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713465439/blog-ux-ui/px-o-rem-si_jeueni.jpg",
   },
 
   {
     url: "La-magia-de-los-parrafos-cortos",
     cover:
       "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696617298/blog-ux-ui/cover-bloques-de-texto_iqowfl.jpg",
-    title: "La Magia de los Párrafos Cortos. ¡Divide y Conquistarás!",
+    title: "La Magia de los Párrafos Cortos ¡Divide y Conquistarás!",
     time: "Lectura: 2 min",
     description: (
       <>
@@ -432,7 +432,7 @@ export const data = [
     url: "ley-de-von-restorff",
     cover:
       "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696429417/blog-ux-ui/cover-von-restorff_zumfkg.jpg",
-    title: "Ley de Von Restorff. ¡Destaca lo diferente!",
+    title: "Ley de Von Restorff ¡Destaca lo diferente!",
     time: "Lectura: 2 min",
     description: (
       <>
@@ -460,7 +460,7 @@ export const data = [
     url: "ley-de-hick",
     cover:
       "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696429417/blog-ux-ui/cover-hick_hgeot3.jpg",
-    title: "Ley de Hick. ¡Simplifica la Experiencia de Usuario!",
+    title: "Ley de Hick ¡Simplifica la Experiencia de Usuario!",
     time: "Lectura: 2 min",
     description: (
       <>
@@ -492,7 +492,7 @@ export const data = [
     url: "ley-de-fitts",
     cover:
       "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696947267/blog-ux-ui/cover-fitts_m88zmx.jpg",
-    title: "Ley de Fitts. ¡El Arte de Hacer Clic sin Esfuerzo!",
+    title: "Ley de Fitts ¡El Arte de Hacer Clic sin Esfuerzo!",
     time: "Lectura: 2 min",
     description: (
       <>
@@ -522,8 +522,8 @@ export const data = [
   {
     url: "ley-de-jacob",
     cover:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713293907/blog-ux-ui/cover-jacob_dnrxav.jpg",
-    title: "Ley de Jacob. ¡Mantén informados a los usuarios!",
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713463976/blog-ux-ui/cover-jacob_zudksz.jpg",
+    title: "Ley de Jacob ¡Una Regla de Oro!",
     time: "Lectura: 2 min",
     description: (
       <>
@@ -544,19 +544,19 @@ export const data = [
           usuarios un mayor esfuerzo cognitivo.
         </p>
         <p>
-          A continuación, podemos observar como en una página de ecommerce, en
-          la página de detalle del producto, es importante mantener un orden que
-          ya está probado, funciona, y es familiar para los usuarios.
+          A continuación, podemos apreciar cómo en una página de ecommerce se
+          prioriza mantener un diseño familiar y reconocible para el usuario, lo
+          que reduce su carga cognitiva. Por ejemplo, el logo suele ubicarse en
+          la parte superior izquierda, mientras que los iconos de búsqueda,
+          acceso a la cuenta, y carrito suelen estar en la parte superior
+          derecha.
         </p>
         <p>
-          Por lo general, siempre encontramos la imagen del producto a la
-          izquierda, y a la derecha encontramos información importante como el
-          título, el precio, los talles, un contador, un botón de &quot;Agregar
-          al carrito&quot;, etc.
-        </p>
-        <p>
-          Gracias a seguir patrones de diseño conocidos y familiares, le estamos
-          ahorrando a nuestros usuarios un mayor esfuerzo cognitivo.
+          En cuanto a la página de detalle del producto, es común encontrar la
+          imagen del producto a la izquierda, mientras que a la derecha se
+          presenta información crucial como el título, el precio, las opciones
+          de talla, un contador y un botón para &quot;Agregar al carrito&quot;,
+          entre otros elementos relevantes.
         </p>
       </>
     ),
@@ -570,7 +570,7 @@ export const data = [
     url: "la-importancia-del-modal-de-confirmacion",
     cover:
       "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713185050/blog-ux-ui/cover-eliminar-items_iuv2ka.jpg",
-    title: "La Importancia del Modal de Confirmación. ¡Evita errores!",
+    title: "La Importancia del Modal de Confirmación ¡Evita errores!",
     time: "Lectura: 2 min",
     description: (
       <>
@@ -723,7 +723,7 @@ export const data = [
     url: "simplificando-formularios-extensos",
     cover:
       "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696603881/blog-ux-ui/cover-formulario-largo_i4vxka.jpg",
-    title: "Simplificando Formularios Extensos. ¡Agrupa campos!",
+    title: "Simplificando Formularios Extensos ¡Agrupa campos!",
     time: "Lectura: 2 min",
     description: (
       <>
