@@ -175,6 +175,47 @@ export const data = [
   },
 
   {
+    url: "el-ancho-perfecto-de-los-parrafos",
+    cover:
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713468906/blog-ux-ui/cover-parrafo-anchura_hie5vu.jpg",
+    title: "El Ancho Perfecto de los Párrafos en Diseño Web",
+    time: "Lectura: 2 min",
+    description: (
+      <>
+        <p>
+          En el diseño de interfaces web, la legibilidad es un aspecto crucial
+          para garantizar una experiencia de usuario satisfactoria. Uno de los
+          factores que influyen significativamente en la legibilidad de un texto
+          es el ancho de los párrafos.
+        </p>
+        <p>
+          Las filas de texto demasiado largas pueden resultar abrumadoras para
+          los usuarios y dificultar la lectura. Además, un ancho excesivo puede
+          hacer que los ojos del lector se cansen más rápido, lo que reduce la
+          atención y la comprensión del contenido.
+        </p>
+        <p>
+          Por otro lado, un ancho de línea demasiado estrecho puede fragmentar
+          el texto y hacer que la lectura sea tediosa. En resumen, encontrar el
+          equilibrio adecuado es fundamental para garantizar una experiencia de
+          lectura óptima.
+        </p>
+        <p>
+          El ancho ideal para los párrafos en una interfaz web suele situarse
+          entre 500 y 700 píxeles. Este rango proporciona suficiente espacio
+          para que el texto se distribuya de manera uniforme sin abrumar al
+          usuario. Al limitar el ancho de la línea dentro de este rango, podemos
+          mejorar la legibilidad y la comodidad de lectura.
+        </p>
+      </>
+    ),
+    image1:
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713469617/blog-ux-ui/parrafo-ancho-no_uvu6oa.jpg",
+    image2:
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713469618/blog-ux-ui/parrafo-ancho-si_izagnw.jpg",
+  },
+
+  {
     url: "titulos-impactantes-la-llave-para-enganchar-a-tu-audiencia",
     cover:
       "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696620723/blog-ux-ui/cover-copy-titulos_wayhov.jpg",
@@ -394,41 +435,6 @@ export const data = [
   },
 
   {
-    url: "chatbots-y-mensajes-automaticos-ayuda-o-molestia",
-    cover:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696592937/blog-ux-ui/cover-chatbots_vk4b7l.jpg",
-    title: "Chatbots y Mensajes Automáticos ¿Ayuda o Molestia?",
-    time: "Lectura: 2 min",
-    description: (
-      <>
-        <p>
-          Interrumpir a un usuario tan pronto como ingresa a un sitio web o
-          aplicación puede ser perjudicial para su experiencia. Abrir un cuadro
-          de diálogo sin que el usuario haya tomado ninguna acción previa puede
-          resultar molesto y contraproducente
-        </p>
-        <p>
-          Hoy en día, muchos sitios web bombardean a los visitantes con chats o
-          mensajes automáticos del tipo &quot;¿En qué puedo ayudarte?&quot;, o
-          &quot;Soy Luisa, tu asistente virtual&quot;. Sin embargo, es
-          importante recordar que la libertad del usuario es fundamental. En
-          lugar de imponer una conversación, es preferible permitir que el
-          usuario inicie el diálogo o chat cuando lo necesite y esté listo para
-          hacerlo.
-        </p>
-        <p>
-          Esta práctica respeta la autonomía del usuario y garantiza que la
-          interacción sea genuina y valiosa para ambas partes.
-        </p>
-      </>
-    ),
-    image1:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696939854/blog-ux-ui/chatbots-no_w1rj5t.jpg",
-    image2:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696939854/blog-ux-ui/chatbots-si_y1c8xw.jpg",
-  },
-
-  {
     url: "ley-de-von-restorff",
     cover:
       "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696429417/blog-ux-ui/cover-von-restorff_zumfkg.jpg",
@@ -564,6 +570,41 @@ export const data = [
       "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713462308/blog-ux-ui/ley-jacob-no_uomfdl.jpg",
     image2:
       "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713462309/blog-ux-ui/ley-jacob-si_nkuhna.jpg",
+  },
+
+  {
+    url: "chatbots-y-mensajes-automaticos-ayuda-o-molestia",
+    cover:
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696592937/blog-ux-ui/cover-chatbots_vk4b7l.jpg",
+    title: "Chatbots y Mensajes Automáticos ¿Ayuda o Molestia?",
+    time: "Lectura: 2 min",
+    description: (
+      <>
+        <p>
+          Interrumpir a un usuario tan pronto como ingresa a un sitio web o
+          aplicación puede ser perjudicial para su experiencia. Abrir un cuadro
+          de diálogo sin que el usuario haya tomado ninguna acción previa puede
+          resultar molesto y contraproducente
+        </p>
+        <p>
+          Hoy en día, muchos sitios web bombardean a los visitantes con chats o
+          mensajes automáticos del tipo &quot;¿En qué puedo ayudarte?&quot;, o
+          &quot;Soy Luisa, tu asistente virtual&quot;. Sin embargo, es
+          importante recordar que la libertad del usuario es fundamental. En
+          lugar de imponer una conversación, es preferible permitir que el
+          usuario inicie el diálogo o chat cuando lo necesite y esté listo para
+          hacerlo.
+        </p>
+        <p>
+          Esta práctica respeta la autonomía del usuario y garantiza que la
+          interacción sea genuina y valiosa para ambas partes.
+        </p>
+      </>
+    ),
+    image1:
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696939854/blog-ux-ui/chatbots-no_w1rj5t.jpg",
+    image2:
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696939854/blog-ux-ui/chatbots-si_y1c8xw.jpg",
   },
 
   {
