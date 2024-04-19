@@ -829,4 +829,55 @@ export const data = [
     image2:
       "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1697108758/blog-ux-ui/mensaje-informativo-cta-si_rxbbga.jpg",
   },
+
+  {
+    url: "como-diseñar-un-hero-atractivo-que-llame-la-atención",
+    cover:
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713532354/blog-ux-ui/cover-home_bhoh3o.jpg",
+    title: "¿Cómo diseñar un Hero atractivo que llame la atención?",
+    time: "Lectura: 2 min",
+    description: (
+      <>
+        <p>
+          Cuando un visitante entra en un sitio web, su primera impresión puede
+          determinar si se queda y explora más o si abandona la página. Para
+          asegurarnos de captar su atención de manera efectiva, es crucial tener
+          un buen titulo, un buen subtítulo, un botón de llamada a la acción,
+          prueba social, y una imagen atractiva.
+        </p>
+        <p>
+          • El titulo principal debe comunicar claramente la propuesta de valor
+          de tu empresa o marca de manera concisa. El titulo comunica beneficios
+          y ventajas.
+        </p>
+        <p>
+          • El subtítulo complementa al título principal, ofreciendo una
+          explicación más detallada de cómo se logrará la propuesta de valor
+          mencionada. Debe ser relevante y persuasivo, motivando al visitante a
+          querer aprender más sobre lo que ofreces.
+        </p>
+        <p>
+          • El botón de llamada a la acción indica al visitante cuál es el
+          siguiente paso que debe tomar para obtener más información o realizar
+          una acción específica. Debe ser claro, relevante y destacarse
+          visualmente para incentivar la interacción.
+        </p>
+        <p>
+          • La prueba social es un elemento poderoso que puede reforzar la
+          credibilidad y confianza en tu marca. La inclusión de pruebas sociales
+          puede ayudar a convencer al visitante de que tu producto o servicio es
+          digno de su atención.
+        </p>
+        <p>
+          • La imagen debe ser visualmente impactante y relevante para tu marca
+          o producto. Debe capturar la atención del visitante y transmitir la
+          esencia de lo que ofreces de manera rápida y efectiva.
+        </p>
+      </>
+    ),
+    image1:
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713534061/blog-ux-ui/seccion-home-no_o3d2jf.jpg",
+    image2:
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713534062/blog-ux-ui/seccion-home-si_hp8pwu.jpg",
+  },
 ];
