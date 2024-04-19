@@ -262,8 +262,8 @@ export const data = [
           sitio web o aplicación.
         </p>
         <p>
-          Sin embargo, a nivel experiencia de usuario, no es lo mejor. Te cuento
-          por qué deberías tener cuidado con este efecto: <br />
+          Sin embargo, a nivel de experiencia de usuario no es lo mejor. Te
+          cuento por qué deberías tener cuidado con este efecto: <br />
           <br />
           <b>• Tiempo de espera:</b> el usuario tiene que esperar a que se
           complete la oración antes de poder leerla completamente. <br />
@@ -876,8 +876,8 @@ export const data = [
       </>
     ),
     image1:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713534061/blog-ux-ui/seccion-home-no_o3d2jf.jpg",
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713538751/blog-ux-ui/seccion-home-no_ktjtjs.jpg",
     image2:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713534062/blog-ux-ui/seccion-home-si_hp8pwu.jpg",
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713538751/blog-ux-ui/seccion-home-si_likkfi.jpg",
   },
 ];
