@@ -1,5 +1,5 @@
 import NavigateToTop from "../../routing/NavigateToTop";
-import GoHomeButton from "../goHomeButton/GoHomeButton";
+import GoHomeButton from "../../components/goHomeButton/GoHomeButton";
 import styles from "./About.module.css";
 
 export default function About() {

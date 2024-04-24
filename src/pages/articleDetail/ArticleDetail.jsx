@@ -3,7 +3,7 @@ import { FaCheck } from "react-icons/fa";
 import { useParams } from "react-router-dom";
 import { data } from "../../data/data";
 import NavigateToTop from "../../routing/NavigateToTop";
-import GoBackButton from "../goBackButton/GoBackButton";
+import GoBackButton from "../../components/goBackButton/GoBackButton";
 import styles from "./ArticleDetail.module.css";
 
 export default function ArticleDetail() {

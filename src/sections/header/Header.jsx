@@ -1,7 +1,7 @@
 import { AiOutlineMenu, AiOutlineClose } from "react-icons/ai";
 import { Link } from "react-router-dom";
 import { useState } from "react";
-import ThemeButton from "../themeButton/ThemeButton";
+import ThemeButton from "../../components/themeButton/ThemeButton";
 import styles from "./Header.module.css";
 
 export default function Header() {

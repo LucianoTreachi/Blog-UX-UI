@@ -1,4 +1,4 @@
-import GoHomeButton from "../goHomeButton/GoHomeButton";
+import GoHomeButton from "../../components/goHomeButton/GoHomeButton";
 import styles from "./Error404.module.css";
 
 export default function Error404() {

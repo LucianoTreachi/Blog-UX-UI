@@ -1,6 +1,6 @@
-import styles from "./Home.module.css";
+import styles from "./Hero.module.css";
 
-export default function Home() {
+export default function Hero() {
   return (
     <section className={styles.section}>
       <div className={styles.container}>
@@ -20,7 +20,7 @@ export default function Home() {
           <img
             className={styles.image}
             src="https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1711818699/blog-ux-ui/home-900x692_lcgghs.png"
-            alt="Imagen del Home"
+            alt="Imagen de inicio"
             width={900}
             height={692}
           />
