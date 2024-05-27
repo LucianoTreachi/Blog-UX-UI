@@ -1,10 +1,10 @@
 .card {
-  border-radius: 1rem;
   overflow: hidden;
-  border: 2px solid var(--accent-color);
   display: flex;
   flex-direction: column;
-  box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
+  border-radius: 1rem;
+  border: var(--border-card);
+  box-shadow: var(--shadow-card);
 }
 
 .cardImage {
@@ -43,7 +43,6 @@
   font-size: 1.8rem;
   font-weight: 500;
   color: var(--accent-color);
-  border-bottom: 1px solid var(--accent-color);
   transition: var(--transition);
 }
 
