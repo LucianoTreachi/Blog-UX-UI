@@ -526,10 +526,10 @@ export const data = [
   },
 
   {
-    url: "ley-de-jacob",
+    url: "ley-de-jakob",
     cover:
       "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713463976/blog-ux-ui/cover-jacob_zudksz.jpg",
-    title: "Ley de Jacob ¡Una Regla de Oro!",
+    title: "Ley de Jakob ¡Una Regla de Oro!",
     time: "Lectura: 2 min",
     description: (
       <>
