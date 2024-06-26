@@ -1,10 +1,16 @@
 .card {
+  min-height: 100%;
   overflow: hidden;
   display: flex;
   flex-direction: column;
   border-radius: 1rem;
   border: var(--border-card);
   box-shadow: var(--shadow-card);
+  transition: var(--transition);
+}
+
+.card:hover {
+  box-shadow: var(--shadow-card-hover);
 }
 
 .cardImage {
@@ -14,7 +20,7 @@
 }
 
 .cardContent {
-  padding: 2rem 2rem 4rem;
+  padding: 2rem;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -38,28 +44,11 @@
   flex-grow: 1;
 }
 
-.cardButton {
-  margin-top: 1rem;
-  font-size: 1.8rem;
-  font-weight: 500;
-  color: var(--accent-color);
-  transition: var(--transition);
-}
-
-.cardButton:hover {
-  opacity: .9;
-}
-
-.cardArrow {
-  vertical-align: middle;
-  transition: var(--transition);
-}
-
-.cardButton:hover .cardArrow {
-  transform: translateX(5px);
-}
-
 @media screen and (max-width: 600px) {
+  .card:hover {
+    box-shadow: none;
+  }
+
   .cardTitle {
     font-size: 2.2rem;
   }

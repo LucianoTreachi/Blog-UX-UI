@@ -6,6 +6,7 @@
   --accent-color: #4f46e4;
   --border-card: 2px solid hsl(0, 0%, 86%);
   --shadow-card: 0px 10px 15px -3px rgba(150, 150, 150, 0.1);
+  --shadow-card-hover: 0px 10px 15px rgba(150, 150, 150, 0.3);
   --background-btn: #e9e7e7;
   --background-navbar: rgba(240, 240, 240, .95);
   --footer: #e8e6e7;
@@ -20,6 +21,7 @@
   --accent-color: #8c87e9;
   --border-card: 2px solid hsl(0, 0%, 26%);
   --shadow-card: 0px 10px 15px -3px rgba(200, 200, 200, 0.1);
+  --shadow-card-hover: 0px 10px 15px rgba(200, 200, 200, 0.3);
   --background-btn: #181818;
   --background-navbar: rgba(18, 18, 18, .95);
   --footer: #23272f;
