@@ -20,7 +20,7 @@ export default function Hero() {
           <img
             className={styles.image}
             src="https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1711818699/blog-ux-ui/home-900x692_lcgghs.png"
-            alt="Imagen de inicio"
+            alt=""
             width={900}
             height={692}
           />
