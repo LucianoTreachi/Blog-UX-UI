@@ -21,7 +21,7 @@ export default function ArticleDetail() {
           <img
             className={styles.cover}
             src={articleSelected.cover}
-            alt="Imagen de portada del artículo"
+            alt=""
             width={1000}
             height={600}
           />

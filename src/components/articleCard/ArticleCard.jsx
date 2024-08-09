@@ -8,7 +8,7 @@ export default function ArticleCard({ article }) {
         <img
           className={styles.cardImage}
           src={article.cover}
-          alt="Imagen de portada del artículo"
+          alt=""
           width={1000}
           height={600}
           loading="lazy"
