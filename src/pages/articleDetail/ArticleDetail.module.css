@@ -36,6 +36,7 @@
   width: 100%;
   height: auto;
   display: block;
+  border-radius: 1rem;
 }
 
 .description {
@@ -77,6 +78,7 @@ h2 {
   width: 100%;
   height: auto;
   display: block;
+  border-radius: 1rem;
 }
 
 @media screen and (max-width: 600px) {
