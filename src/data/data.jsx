@@ -26,9 +26,9 @@ export const data = [
       </>
     ),
     image1:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1725888868/blog-ux-ui/alineacion-de-texto-no_u2hxmt.jpg",
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1725900397/blog-ux-ui/alineacion-de-texto-no_yl7riy.jpg",
     image2:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1725888868/blog-ux-ui/alineacion-de-texto-si_uocn1k.jpg",
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1725900397/blog-ux-ui/alineacion-de-texto-si_mhmd2i.jpg",
   },
 
   {
