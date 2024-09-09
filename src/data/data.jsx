@@ -489,9 +489,9 @@ export const data = [
       </>
     ),
     image1:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1725892255/blog-ux-ui/hick-no_nc2cbz.jpg",
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1725894308/blog-ux-ui/hick-no_kuk9cm.jpg",
     image2:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1725892255/blog-ux-ui/hick-si_ihxvmn.jpg",
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1725894308/blog-ux-ui/hick-si_qrlix4.jpg",
   },
 
   {
