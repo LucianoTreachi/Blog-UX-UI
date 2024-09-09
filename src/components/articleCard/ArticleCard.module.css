@@ -10,7 +10,7 @@
 }
 
 .card:hover {
-  box-shadow: var(--shadow-card-hover);
+  filter: contrast(80%);
 }
 
 .cardImage {
