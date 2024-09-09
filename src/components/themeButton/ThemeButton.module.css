@@ -6,14 +6,21 @@
   transform: translateY(2px);
 }
 
+.sunIcon {
+  color: rgb(145, 106, 93);
+}
+
+.moonIcon {
+  color: lightskyblue;
+}
+
 .sunIcon,
 .moonIcon {
   font-size: 2.8rem;
-  color: var(--black);
   opacity: .85;
 }
 
 .sunIcon:hover,
 .moonIcon:hover {
   opacity: 1;
-} 
+}
