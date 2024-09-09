@@ -384,9 +384,9 @@ export const data = [
       </>
     ),
     image1:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696939589/blog-ux-ui/degradado-lineal-no_lubpx5.jpg",
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1725893828/blog-ux-ui/degradado-lineal-no_ouvazm.jpg",
     image2:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696939589/blog-ux-ui/degradado-lineal-si_xtsurw.jpg",
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1725893828/blog-ux-ui/degradado-lineal-si_axznms.jpg",
   },
 
   {
