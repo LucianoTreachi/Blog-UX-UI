@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
-import { MdOutlineWbSunny } from "react-icons/md";
-import { FiMoon } from "react-icons/fi";
+import { IoMdSunny } from "react-icons/io";
+import { IoMdMoon } from "react-icons/io";
 import styles from "./ThemeButton.module.css";
 
 export default function ThemeButton() {
@@ -31,9 +31,9 @@ export default function ThemeButton() {
       aria-label="Cambiar el tema"
     >
       {isDarkTheme ? (
-        <FiMoon className={styles.moonIcon} />
+        <IoMdMoon className={styles.moonIcon} />
       ) : (
-        <MdOutlineWbSunny className={styles.sunIcon} />
+        <IoMdSunny className={styles.sunIcon} />
       )}
     </button>
   );

@@ -10,4 +10,10 @@
 .moonIcon {
   font-size: 2.8rem;
   color: var(--black);
+  opacity: .85;
 }
+
+.sunIcon:hover,
+.moonIcon:hover {
+  opacity: 1;
+} 
