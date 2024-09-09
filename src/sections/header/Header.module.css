@@ -27,11 +27,9 @@
   font-weight: 500;
   color: var(--black);
   opacity: .85;
-  transition: var(--transition);
 }
 
 .menuLink:hover {
-  color: var(--accent-color);
   opacity: 1;
 }
 
