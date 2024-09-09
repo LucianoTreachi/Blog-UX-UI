@@ -26,9 +26,9 @@ export const data = [
       </>
     ),
     image1:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696938062/blog-ux-ui/alineacion-de-texto-no_bltjam.jpg",
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1725888868/blog-ux-ui/alineacion-de-texto-no_u2hxmt.jpg",
     image2:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696938062/blog-ux-ui/alineacion-de-texto-si_iu477r.jpg",
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1725888868/blog-ux-ui/alineacion-de-texto-si_uocn1k.jpg",
   },
 
   {
@@ -137,9 +137,9 @@ export const data = [
       </>
     ),
     image1:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713465440/blog-ux-ui/px-o-rem-no_tvi8np.jpg",
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1725889499/blog-ux-ui/px-o-rem-no_soxevc.png",
     image2:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713465439/blog-ux-ui/px-o-rem-si_jeueni.jpg",
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1725889499/blog-ux-ui/px-o-rem-si_acbygr.png",
   },
 
   {
@@ -177,7 +177,7 @@ export const data = [
   {
     url: "el-ancho-perfecto-de-los-parrafos",
     cover:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1713468906/blog-ux-ui/cover-parrafo-anchura_hie5vu.jpg",
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1725889922/blog-ux-ui/cover-parrafo-anchura_nn11nn.jpg",
     title: "El Ancho Perfecto de los Párrafos en Diseño Web",
     time: "Lectura: 2 min",
     description: (
@@ -245,7 +245,7 @@ export const data = [
     image1:
       "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696938515/blog-ux-ui/titulos-mas-atractivos-no_pl5puf.jpg",
     image2:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696938515/blog-ux-ui/titulos-mas-atractivos-si_hnut2m.jpg",
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1725890413/blog-ux-ui/titulos-mas-atractivos-si_tsnvyc.jpg",
   },
 
   {
@@ -457,9 +457,9 @@ export const data = [
       </>
     ),
     image1:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696940233/blog-ux-ui/von-restorff-no_wewnxv.jpg",
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1725890855/blog-ux-ui/von-restorff-no_uiv2rp.jpg",
     image2:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696940233/blog-ux-ui/von-restorff-si_wdbmun.jpg",
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1725890855/blog-ux-ui/von-restorff-si_t7lknk.jpg",
   },
 
   {
@@ -489,9 +489,9 @@ export const data = [
       </>
     ),
     image1:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696940376/blog-ux-ui/hick-no_msuu5o.jpg",
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1725892255/blog-ux-ui/hick-no_nc2cbz.jpg",
     image2:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696940376/blog-ux-ui/hick-si_qihwxk.jpg",
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1725892255/blog-ux-ui/hick-si_ihxvmn.jpg",
   },
 
   {
@@ -668,9 +668,9 @@ export const data = [
       </>
     ),
     image1:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696940637/blog-ux-ui/botones-no_rp7niq.jpg",
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1725892650/blog-ux-ui/botones-no_obgwi0.jpg",
     image2:
-      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1696940637/blog-ux-ui/botones-si_zgwrwt.jpg",
+      "https://res.cloudinary.com/dwqk2mkgh/image/upload/f_auto,q_auto/v1725892650/blog-ux-ui/botones-si_qoqhx0.jpg",
   },
 
   {
