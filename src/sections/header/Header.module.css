@@ -49,7 +49,7 @@
   .openMenuIcon {
     display: block;
     font-size: 3rem;
-    color: var(--accent-color);
+    color: var(--black);
     margin-left: 1rem;
     cursor: pointer;
   }
