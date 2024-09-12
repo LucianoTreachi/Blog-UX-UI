@@ -52,7 +52,7 @@ export const data = [
         </p>
         <p>
           Para lograr un equilibrio óptimo, se recomienda utilizar un tamaño
-          mínimo de fuente entre 16px a 20px (o su equivalente en rem) para el
+          mínimo de fuente entre 16px a 18px (o su equivalente en rem) para el
           cuerpo del texto.
         </p>
       </>
@@ -79,21 +79,8 @@ export const data = [
         </p>
         <p>
           Especificar un line-height en los párrafos es una práctica efectiva:
-          facilita la lectura y reduce la fatiga ocular.
-        </p>
-        <p>
-          Un line-height entre 1.2 y 1.6 es un buen rango para experimentar y
-          encontrar una altura de línea que mejor funcione para un diseño en
-          particular.
-        </p>
-        <p>
-          Lograr que los usuarios puedan leer y comprender el contenido de
-          manera eficiente es esencial para una experiencia positiva.
-        </p>
-        <p>
-          La legibilidad no solo mejora la usabilidad, sino que también
-          contribuye a la percepción general de calidad de tu sitio web o
-          aplicación.
+          facilita la lectura y reduce la fatiga ocular. Un line-height entre
+          1.4 y 1.6 es un buen rango para experimentar.
         </p>
       </>
     ),
@@ -112,9 +99,9 @@ export const data = [
     description: (
       <>
         <p>
-          Cuando estamos diseñando una interfaz de usuario, es crucial elegir la
-          unidad de medida adecuada para garantizar una experiencia consistente
-          y adaptable en diferentes dispositivos y pantallas.
+          Cuando estamos diseñando una interfaz de usuario, es fundamental
+          elegir la unidad de medida adecuada para garantizar una experiencia
+          consistente y adaptable en diferentes dispositivos y pantallas.
         </p>
         <p>
           <b>La unidad rem</b> es ideal para crear diseños flexibles y
@@ -130,9 +117,10 @@ export const data = [
           fijas.
         </p>
         <p>
-          Es crucial entender las fortalezas y limitaciones de cada unidad para
-          tomar decisiones informadas y crear interfaces de usuario que sean
-          tanto visualmente atractivas como funcionales en cualquier entorno.
+          Es importante entender las fortalezas y limitaciones de cada unidad
+          para tomar decisiones informadas y crear interfaces de usuario que
+          sean tanto visualmente atractivas como funcionales en cualquier
+          entorno.
         </p>
       </>
     ),
@@ -399,32 +387,20 @@ export const data = [
       <>
         <p>
           Cuando diseñamos interfaces de usuario, la claridad visual es
-          fundamental para garantizar una experiencia de usuario óptima. Una
-          forma sencilla de aumentar la comprensión de un elemento en tu diseño
-          es añadir un icono de flecha apuntando hacia la izquierda,
-          especialmente cuando se trata de una acción como &quot;Volver al
-          sitio&quot;, &quot;Volver a inicio&quot;, &quot;Volver atrás&quot;.
+          fundamental para garantizar una experiencia de usuario óptima. Cuando
+          tenemos una acción como &quot;Volver al sitio&quot;, &quot;Volver a
+          inicio&quot;, &quot;Volver atrás&quot;, una forma sencilla de aumentar
+          la comprensión de dicho elemento es añadir un icono de flecha
+          apuntando hacia la izquierda.
         </p>
         <p>
-          La razón detrás de esto es que la mayoría de las personas asocian
-          naturalmente una flecha hacia la izquierda con la acción de retroceder
-          o volver atrás. Al agregar esta indicación visual, estás comunicando
-          de manera más efectiva la función del elemento, lo que facilita que
-          los usuarios comprendan y utilicen tu aplicación o sitio web de manera
-          más fluida.
-        </p>
-        <p>
-          Asegúrate de que el icono de flecha sea claramente visible y fácil de
-          identificar. Puedes usar diferentes tamaños o colores para destacarlo
-          según el contexto de tu diseño, pero la consistencia en el uso de este
-          tipo de iconos en toda tu interfaz ayudará a crear una experiencia
-          cohesiva y amigable para el usuario.
+          La mayoría de las personas asocian naturalmente una flecha hacia la
+          izquierda con la acción de retroceder o volver atrás.
         </p>
         <p>
           Recuerda que el diseño de una interfaz debe ser intuitivo y accesible,
-          y pequeños detalles como esta flecha pueden marcar una gran diferencia
-          en la percepción y usabilidad de tu producto. No subestimes el poder
-          de la claridad visual al diseñar tus elementos de navegación.
+          y pequeños detalles pueden marcar una gran diferencia en la percepción
+          y usabilidad de tu producto.
         </p>
       </>
     ),
@@ -477,14 +453,9 @@ export const data = [
           decisiones más lentas o incluso no tomará ninguna decisión.
         </p>
         <p>
-          Es interesante utilizar este recurso en formularios de alta, registro
-          o compra, navegación, menú dropdown, opciones múltiples, sección de
-          features, sección Home.
-        </p>
-        <p>
-          Mantener la interfaz simple, limpia, intuitiva y fácil de usar,
-          mejorará significativamente la usabilidad y la satisfacción del
-          usuario.
+          Por lo tanto, mantener la interfaz simple, limpia, intuitiva y fácil
+          de usar, mejorará significativamente la usabilidad y la satisfacción
+          del usuario.
         </p>
       </>
     ),
@@ -656,14 +627,15 @@ export const data = [
           usuario.
         </p>
         <p>
-          El botón primario es aquel que tiene mayor peso e importancia, suele
-          representar la acción principal que se espera que el usuario realice
-          en la página o aplicación, y suele tener un color más llamativo.
+          <b>El botón primario</b> es aquel que tiene mayor peso e importancia,
+          suele representar la acción principal que se espera que el usuario
+          realice en la página o aplicación, y suele tener un color más
+          llamativo.
         </p>
         <p>
-          El botón secundario es aquel que tiene menor peso, suele representar
-          la opción de cancelar o posponer una acción, y tiene un color menos
-          llamativo.
+          <b>El botón secundario</b> es aquel que tiene menor peso, suele
+          representar la opción de cancelar o posponer una acción, y tiene un
+          color menos llamativo.
         </p>
       </>
     ),
@@ -841,37 +813,37 @@ export const data = [
         <p>
           Cuando un visitante entra en un sitio web, su primera impresión puede
           determinar si se queda y explora más o si abandona la página. Para
-          asegurarnos de captar su atención de manera efectiva, es crucial tener
-          un buen titulo, un buen subtítulo, un botón de llamada a la acción,
-          prueba social, y una imagen atractiva.
+          asegurarnos de captar su atención de manera efectiva, es fundamental
+          tener un buen titulo, un buen subtítulo, un botón de llamada a la
+          acción, prueba social, y una imagen atractiva.
         </p>
         <p>
-          • El titulo principal debe comunicar claramente la propuesta de valor
-          de tu empresa o marca de manera concisa. El titulo comunica beneficios
-          y ventajas.
+          <b>• El titulo principal</b> debe comunicar claramente la propuesta de
+          valor de tu empresa o marca de manera concisa. El titulo comunica
+          beneficios y ventajas.
         </p>
         <p>
-          • El subtítulo complementa al título principal, ofreciendo una
+          <b>• El subtítulo</b> complementa al título principal, ofreciendo una
           explicación más detallada de cómo se logrará la propuesta de valor
           mencionada. Debe ser relevante y persuasivo, motivando al visitante a
           querer aprender más sobre lo que ofreces.
         </p>
         <p>
-          • El botón de llamada a la acción indica al visitante cuál es el
-          siguiente paso que debe tomar para obtener más información o realizar
-          una acción específica. Debe ser claro, relevante y destacarse
+          <b>• El botón de llamada a la acción</b> indica al visitante cuál es
+          el siguiente paso que debe tomar para obtener más información o
+          realizar una acción específica. Debe ser claro, relevante y destacarse
           visualmente para incentivar la interacción.
         </p>
         <p>
-          • La prueba social es un elemento poderoso que puede reforzar la
-          credibilidad y confianza en tu marca. La inclusión de pruebas sociales
-          puede ayudar a convencer al visitante de que tu producto o servicio es
-          digno de su atención.
+          <b>• La prueba social</b> es un elemento poderoso que puede reforzar
+          la credibilidad y confianza en tu marca. La inclusión de pruebas
+          sociales puede ayudar a convencer al visitante de que tu producto o
+          servicio es digno de su atención.
         </p>
         <p>
-          • La imagen debe ser visualmente impactante y relevante para tu marca
-          o producto. Debe capturar la atención del visitante y transmitir la
-          esencia de lo que ofreces de manera rápida y efectiva.
+          <b>• La imagen</b> debe ser visualmente impactante y relevante para tu
+          marca o producto. Debe capturar la atención del visitante y transmitir
+          la esencia de lo que ofreces de manera rápida y efectiva.
         </p>
       </>
     ),
