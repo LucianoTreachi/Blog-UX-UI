@@ -1,6 +1,6 @@
 import { AiOutlineMenu, AiOutlineClose } from "react-icons/ai";
 import { Link } from "react-router-dom";
-import { useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import ThemeButton from "../../components/themeButton/ThemeButton";
 import styles from "./Header.module.css";
 
@@ -10,6 +10,20 @@ export default function Header() {
   const toggleMenu = () => {
     setIsOpen(!isOpen);
   };
+
+  const handleScroll = useCallback(() => {
+    if (isOpen) {
+      setIsOpen(false);
+    }
+  }, [isOpen]);
+
+  useEffect(() => {
+    window.addEventListener("scroll", handleScroll);
+
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, [handleScroll]);
 
   return (
     <>
@@ -38,9 +52,15 @@ export default function Header() {
           {/* Theme */}
           <ThemeButton />
 
-          {/* Hamburguer Menu */}
+          {/* Hamburger Menu */}
           <AiOutlineMenu className={styles.openMenuIcon} onClick={toggleMenu} />
         </nav>
+
+        {/* Overlay */}
+        <div
+          className={`${styles.overlay} ${isOpen ? styles.open : ""}`}
+          onClick={toggleMenu}
+        ></div>
       </header>
     </>
   );
