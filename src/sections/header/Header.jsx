@@ -34,12 +34,17 @@ export default function Header() {
             Blog.
           </Link>
 
-          {/* Navigation */}
           <div className={`${styles.menu} ${isOpen && styles.open}`}>
-            <AiOutlineClose
-              className={styles.closeMenuIcon}
+            {/* Close menu button */}
+            <button
+              className={styles.closeMenuButton}
               onClick={toggleMenu}
-            />
+              aria-label="Cerrar Menú"
+            >
+              <AiOutlineClose />
+            </button>
+
+            {/* Links */}
             <Link
               className={styles.menuLink}
               to="/sobre-este-blog"
@@ -49,11 +54,17 @@ export default function Header() {
             </Link>
           </div>
 
-          {/* Theme */}
+          {/* Theme button */}
           <ThemeButton />
 
-          {/* Hamburger Menu */}
-          <AiOutlineMenu className={styles.openMenuIcon} onClick={toggleMenu} />
+          {/* Open menu button */}
+          <button
+            className={styles.openMenuButton}
+            onClick={toggleMenu}
+            aria-label="Menú"
+          >
+            <AiOutlineMenu />
+          </button>
         </nav>
 
         {/* Overlay */}

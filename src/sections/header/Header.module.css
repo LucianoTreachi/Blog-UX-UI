@@ -33,11 +33,11 @@
   opacity: 1;
 }
 
-.openMenuIcon {
+.openMenuButton {
   display: none;
 }
 
-.closeMenuIcon {
+.closeMenuButton {
   display: none;
 }
 
@@ -51,12 +51,17 @@
     padding: 2rem;
   }
 
-  .openMenuIcon {
-    display: block;
-    font-size: 3rem;
-    color: var(--black);
+  .openMenuButton {
+    border: none;
+    background: none;
     margin-left: 1rem;
     cursor: pointer;
+    display: block;
+  }
+
+  .openMenuButton svg {
+    font-size: 3rem;
+    color: var(--black);
   }
 
   .overlay.open {
@@ -95,14 +100,19 @@
     right: 0;
   }
 
-  .closeMenuIcon {
+  .closeMenuButton {
+    border: none;
+    background: none;
     display: block;
     position: absolute;
     top: 2rem;
     left: 2rem;
-    font-size: 3rem;
-    color: var(--black);
     cursor: pointer;
     z-index: 4;
+  }
+
+  .closeMenuButton svg {
+    font-size: 3rem;
+    color: var(--black);
   }
 }
