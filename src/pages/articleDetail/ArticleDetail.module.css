@@ -60,17 +60,19 @@ h2 {
 }
 
 .greenTitle {
-  color: #2cca24;
+  color: #119277;
 }
 
 .crossIcon {
   font-size: 1.8rem;
   color: #db1436;
+  transform: translateY(1px);
 }
 
 .checkIcon {
   font-size: 1.8rem;
-  color: #2cca24;
+  color: #119277;
+  transform: translateY(1px);
 }
 
 .image {
