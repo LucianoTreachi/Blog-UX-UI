@@ -1,23 +1,27 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LucianoTreachi/Blog-UX-UI/main/readmeBanner.jpg" width="100%" alt="Banner"/>
-</div>
+# Blog sobre estrategias UX/UI
 
-### ✅ Proyecto
+**Blog sobre estrategias UX/UI** es un Blog sobre consejos, técnicas y estrategias UX/UI para lograr un diseño atractivo, intuitivo y funcional.
 
-- Diseñé y desarrollé un Blog sobre consejos, técnicas y estrategias UX/UI para un diseño atractivo, intuitivo y funcional.
+## Vista previa
 
-### 🎯 Objetivos
+[![Captura de pantalla del proyecto](https://i.postimg.cc/cHdCB5dP/website.jpg)](https://postimg.cc/f3gMwCtv)
 
-- Ofrecer una amplia gama de técnicas destinadas a mejorar la experiencia de usuario.
-- Fomentar la comprensión y la importancia sobre el desarrollo de sitios web funcionales, intuitivos y fáciles de usar.
-- Proporcionar información valiosa y práctica que ayude a crear experiencias digitales excepcionales.
+## Explora el Blog
 
-### ⚡ Tecnologías Utilizadas
+Accede aquí → [Blog sobre estrategias UX/UI](https://blog-estrategias-ux-ui.vercel.app/)
 
-- Vite + React
-- CSS Modules
-- Cloudinary
+## Tecnologías utilizadas
 
-### 👽 Autor
+- **Vite:** Herramienta de construcción rápida.
+- **React 18:** Biblioteca para construir interfaces de usuario interactivas.
+- **CSS Modules:** Estilización de forma modular y encapsulada.
+- **Cloudinary:** Alojamiento y gestión de imágenes.
 
-- Luciano Treachi
+## Desarrollado por
+
+**Luciano Treachi**
+
+Soy un Desarrollador Frontend dedicado a crear soluciones web eficientes, accesibles, intuitivas y fáciles de usar que potencian la experiencia del usuario.
+
+[![Sitio Web](https://img.shields.io/badge/Sitio_Web-black?style=for-the-badge&logoColor=white)](https://lucianotreachi.vercel.app/)
+[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/luciano-treachi/)
