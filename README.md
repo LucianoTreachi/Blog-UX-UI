@@ -8,7 +8,7 @@
 
 ## Explora el Blog
 
-Accede aquí → [Blog sobre estrategias UX/UI](https://blog-estrategias-ux-ui.vercel.app/)
+Accede aquí → [Blog sobre estrategias UX/UI](https://bloguxui.vercel.app/)
 
 ## Tecnologías utilizadas
 
