@@ -6,16 +6,19 @@
 
 [![Captura de pantalla del proyecto](https://i.postimg.cc/cHdCB5dP/website.jpg)](https://postimg.cc/f3gMwCtv)
 
-## Explora el Blog
-
-Accede aquí → [Blog sobre estrategias UX/UI](https://bloguxui.vercel.app/)
-
 ## Tecnologías utilizadas
 
 - **Vite:** Herramienta de construcción rápida.
+
 - **React 18:** Biblioteca para construir interfaces de usuario interactivas.
+
 - **CSS Modules:** Estilización de forma modular y encapsulada.
+
 - **Cloudinary:** Alojamiento y gestión de imágenes.
+
+## Explora el Blog
+
+Accede aquí → [Blog UX/UI](https://bloguxui.vercel.app/)
 
 ## Desarrollado por
 
